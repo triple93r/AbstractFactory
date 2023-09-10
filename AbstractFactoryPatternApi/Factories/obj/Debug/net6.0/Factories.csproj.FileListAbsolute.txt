@@ -1,0 +1,15 @@
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\bin\Debug\net6.0\Factories.deps.json
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\bin\Debug\net6.0\Factories.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\bin\Debug\net6.0\Factories.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\bin\Debug\net6.0\BLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\bin\Debug\net6.0\BLClassLibrary.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.csproj.AssemblyReference.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.AssemblyInfoInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.AssemblyInfo.cs
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.csproj.CoreCompileInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.csproj.CopyComplete
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\refint\Factories.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\Factories.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\Factories\obj\Debug\net6.0\ref\Factories.dll

@@ -25,6 +25,22 @@ namespace AbstractFactoryPatternApi.Factories
         }
     }
 
+    public class EmergencyPatientFactory : AbstractFactory
+    {
+        public override AbstractPatient GetPatient()
+        {
+            return new EmergencyPatient();
+        }
+    }
+    public class InvalidPatientFactory : AbstractFactory
+    {
+        public override AbstractPatient GetPatient()
+        {
+            return new InvalidPatient();
+        }
+    }
+
+
     // Factory Selector //
     public class FactorySelector2
     {
@@ -36,8 +52,12 @@ namespace AbstractFactoryPatternApi.Factories
                     return new InPatientFactory();
                 case 2:
                     return new OutPatientFactory();
-                default:
+                case 3:
                     return new CasualPatientFactory();
+                case 4:
+                    return new EmergencyPatientFactory();
+                default:
+                    return new InvalidPatientFactory();
             }
         }
     }

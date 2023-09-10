@@ -1,0 +1,12 @@
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.deps.json
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\bin\Debug\net6.0\BLClassLibrary.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.csproj.AssemblyReference.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.AssemblyInfoInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.AssemblyInfo.cs
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.csproj.CoreCompileInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\refint\BLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\BLClassLibrary.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\BLClassLibrary\obj\Debug\net6.0\ref\BLClassLibrary.dll

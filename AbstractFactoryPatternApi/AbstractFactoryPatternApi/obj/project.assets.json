@@ -888,6 +888,42 @@
             "rid": "win"
           }
         }
+      },
+      "BLClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BLClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLClassLibrary.dll": {}
+        }
+      },
+      "DLClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.21"
+        },
+        "compile": {
+          "bin/placeholder/DLClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DLClassLibrary.dll": {}
+        }
+      },
+      "Factories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BLClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Factories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Factories.dll": {}
+        }
       }
     }
   },
@@ -2462,10 +2498,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BLClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BLClassLibrary/BLClassLibrary.csproj",
+      "msbuildProject": "../BLClassLibrary/BLClassLibrary.csproj"
+    },
+    "DLClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DLClassLibrary/DLClassLibrary.csproj",
+      "msbuildProject": "../DLClassLibrary/DLClassLibrary.csproj"
+    },
+    "Factories/1.0.0": {
+      "type": "project",
+      "path": "../Factories/Factories.csproj",
+      "msbuildProject": "../Factories/Factories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BLClassLibrary >= 1.0.0",
+      "DLClassLibrary >= 1.0.0",
+      "Factories >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.21",
       "Microsoft.EntityFrameworkCore >= 6.0.21",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.21",
@@ -2506,7 +2560,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\BLClassLibrary\\BLClassLibrary.csproj": {
+              "projectPath": "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\BLClassLibrary\\BLClassLibrary.csproj"
+            },
+            "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\DLClassLibrary\\DLClassLibrary.csproj": {
+              "projectPath": "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\DLClassLibrary\\DLClassLibrary.csproj"
+            },
+            "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\Factories\\Factories.csproj": {
+              "projectPath": "E:\\Practice\\Youtube\\AbstractFactory\\AbstractFactoryPatternApi\\Factories\\Factories.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

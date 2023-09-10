@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Factories/1.0.0": {
+        "dependencies": {
+          "BLClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Factories.dll": {}
+        }
+      },
+      "BLClassLibrary/1.0.0": {
+        "runtime": {
+          "BLClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

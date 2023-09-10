@@ -33,10 +33,11 @@ namespace AbstractFactoryPatternApi.Controllers
             ptn.Age = abstractPatient.Age(age);
             ptn.Adrress = abstractPatient.Address(Address);
             ptn.PatientType = abstractPatient.Typ();
-
-            _context.Patients.Add(ptn);
-            _context.SaveChanges();
-
+            if (ptn.PatientType != "Invalid Patient Entry")
+            {
+                _context.Patients.Add(ptn);
+                _context.SaveChanges();
+            }
             return Json(abstractPatient.FirstName(FirstName) + " - " + abstractPatient.LastName(LastName));
         }
     }

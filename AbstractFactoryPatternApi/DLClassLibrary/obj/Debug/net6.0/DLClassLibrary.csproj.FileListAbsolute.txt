@@ -1,0 +1,12 @@
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\bin\Debug\net6.0\DLClassLibrary.deps.json
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\bin\Debug\net6.0\DLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\bin\Debug\net6.0\DLClassLibrary.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.csproj.AssemblyReference.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.AssemblyInfoInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.AssemblyInfo.cs
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.csproj.CoreCompileInputs.cache
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\refint\DLClassLibrary.dll
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\DLClassLibrary.pdb
+E:\Practice\Youtube\AbstractFactory\AbstractFactoryPatternApi\DLClassLibrary\obj\Debug\net6.0\ref\DLClassLibrary.dll
